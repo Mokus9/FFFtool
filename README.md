@@ -6,6 +6,7 @@ To create a pair of tweezers on a 3D printer, follow these steps:
 1. Design the Model:
    - Use a 3D modeling software like Rhino 7 to design the tweezers. Ensure the design is optimized for 3D printing.
    - Make sure the design includes supports for overhangs and thin features.
+   ![123](https://github.com/user-attachments/assets/dae13be8-e3d5-4f3e-a1e0-356d24d475a0)
 
 2. Prepare the File:
    - Export the model in a format compatible with your 3D printer, such as STL.
@@ -19,6 +20,7 @@ To create a pair of tweezers on a 3D printer, follow these steps:
    - Load the sliced file onto your 3D printer.
    - Ensure the printer is properly calibrated and leveled.
    - Monitor the print progress and make adjustments if necessary.
+  ![123](https://github.com/user-attachments/assets/23547fef-6a77-44e8-b1ec-b2ba432493b8)
 
 5. Post-Processing:
    - Remove the printed tweezers from the build plate and support material.
