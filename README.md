@@ -20,7 +20,7 @@ To create a pair of tweezers on a 3D printer, follow these steps:
    - Load the sliced file onto your 3D printer.
    - Ensure the printer is properly calibrated and leveled.
    - Monitor the print progress and make adjustments if necessary.
-  ![123](https://github.com/user-attachments/assets/23547fef-6a77-44e8-b1ec-b2ba432493b8)
+  ![photo_5307752127092876997_y (1)](https://github.com/user-attachments/assets/90d50af5-0698-48fd-a3e3-cab07b31e7aa)
 
 5. Post-Processing:
    - Remove the printed tweezers from the build plate and support material.
