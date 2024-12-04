@@ -30,3 +30,7 @@ To create a pair of tweezers on a 3D printer, follow these steps:
    - Make any necessary adjustments to the design or printing process.
 
 Following these steps, you can successfully create a pair of tweezers on a 3D printer, ensuring a high-quality and functional result.
+  
+
+https://github.com/user-attachments/assets/65848e9f-de74-4e1e-a8d1-d4443a361217
+
